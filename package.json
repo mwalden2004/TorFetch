@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "axios-socks5-agent": "^1.0.3",
+    "http-proxy-agent": "^5.0.0",
+    "node-fetch": "^2.6.6",
+    "socks-proxy-agent": "^6.1.1",
+    "socks5-client": "^1.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10"
+  }
+}
